@@ -18,7 +18,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
  <h1>Technologies</h1>
-    <div class="container">
+    <div class="container"><img src="img/intro.png" alt= "intro" width"100" height="100" aling="left" / >
         <div class="list">
             <ul>
                 <li>MySQL Workbench</li>
@@ -28,9 +28,6 @@
                 <li>HTML</li>
                 <li>CSS</li>
             </ul>
-        </div>
-        <div>
-            <img src="img/intro.png" alt="intro" width="400"/>
         </div>
     </div>
 
@@ -42,17 +39,37 @@
 <p>I am currently working on databases and web design. This project includes examples and applications of these technologies.<p>
 
 
-
-
-
-
 <br />
-Here are some ideas to get you started:
+
+<div>
+
+  ## 🧭 &nbsp;About Me
+
+  - 📚 Information System student in ICEP
+  <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
+
+  - 👯 I’m looking to collaborate on Michelada.io
+
+  - 🌱  I’m currently learning PHP, Mysql, Ruby,HTML, CSS, JavaScript
+
+  - 💬  Ask me anything **any technology**.
+
+  - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Potato">potato</a>
+
+  <br>
+  
+
+</div>
+
+<!-- end descriptions -->
 
 
-- 🌱 I’m currently learning PHP, Mysql, Ruby,HTML, CSS, JavaScript
-- 👯 I’m looking to collaborate on Michelada.io
-- 💬 ask me anything
-- 📫 How to reach me: Elbartoy@gmail.com and juan_nbx0
-- 😄 Pronouns: men
-- ⚡Learning in boredom
+<p>
+  <a href="https://www.youtube.com/@DevCode25" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" style="width: 40px; height: 40px;">
+  </a>
+  <a href="https://www.instagram.com/juan_nbx0/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" style="width: 40px; height: 40px;">
+  </a>
+</p>
+
