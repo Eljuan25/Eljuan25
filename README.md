@@ -16,12 +16,14 @@
   </ul>
   </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
- <h1>Technologies</h1>
-    <div class="container">
-        <div class="list">
-            <ul><img src="img/intro.png" alt= "intro" width"250px" height="250px" aling="left" />
-                <li>MySQL Workbench</li>
+<div class="list-and-image">
+        <div>
+        <img alt="intro" src="img/intro.png" width="200">
+        </div>
+        <div>
+            <h5>Technologies</h5>
+            <ul>
+             <li>MySQL Workbench</li>
                 <li>Ruby on Rails</li>
                 <li>JavaScript</li>
                 <li>PHP</li>
@@ -29,7 +31,9 @@
                 <li>CSS</li>
             </ul>
         </div>
-    </div>
+</div>
+
+    
 
 
 <!-- Descriptions abut me --->
