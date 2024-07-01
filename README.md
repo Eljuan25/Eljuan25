@@ -18,9 +18,9 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
  <h1>Technologies</h1>
-    <div class="container"><img src="img/intro.png" alt= "intro" width"100" height="100" aling="left" / >
+    <div class="container">
         <div class="list">
-            <ul>
+            <ul><img src="img/intro.png" alt= "intro" width"250px" height="250px" aling="left" />
                 <li>MySQL Workbench</li>
                 <li>Ruby on Rails</li>
                 <li>JavaScript</li>
@@ -36,7 +36,8 @@
 
 <h1>Actualy</h1>
 
-<p>I am currently working on databases and web design. This project includes examples and applications of these technologies.<p>
+<p>Currently, I am working on database development and management, as well as web design. This project includes a variety of examples and applications that illustrate the use of different technologies. <br />These include MySQL Workbench, Ruby on Rails, JavaScript, PHP, HTML and CSS. Through these examples, I demonstrate my skills in creating, maintaining and optimizing databases, as well as implementing attractive and functional user interfaces. My goal is to combine the efficiency of databases with the intuitive design of web applications to provide complete, high-performance solutions.<p>
+
 
 
 <br />
@@ -63,6 +64,8 @@
 
 <!-- end descriptions -->
 
+
+<h1>Follow me</h1>
 
 <p>
   <a href="https://www.youtube.com/@DevCode25" target="_blank">
