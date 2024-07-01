@@ -18,10 +18,10 @@
 
 <div class="list-and-image">
         <div>
-        <img alt="intro" src="img/intro.png" width="200">
+        <img align='right' src="img/intro.png" width="230">
         </div>
         <div>
-            <h5>Technologies</h5>
+            <h1>Technologies</h1>
             <ul>
              <li>MySQL Workbench</li>
                 <li>Ruby on Rails</li>
