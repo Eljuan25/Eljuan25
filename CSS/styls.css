@@ -1,0 +1,7 @@
+.container {
+    display: flex;
+    align-items: flex-start;
+}
+.list {
+    margin-right: 20px;
+}

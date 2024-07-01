@@ -1,3 +1,6 @@
+ <link rel="stylesheet" href="CSS/styls.css">
+
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -14,34 +17,36 @@
   </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-<h1> Technologies </h1>
-
-  <div>
-    <ul>
-      <li>MySQL Workbench</li>
-      <li>Ruby on Rails</li>
-      <li>JavaScript</li>
-      <li>PHP</li>
-      <li>HTML</li>
-      <li>CSS</li>
-    </ul>
-  </div>
-  <div>
-    <img src="img/intro.png" alt="intro" width="400"/>
-  </div>
-</div>
+ <h1>Technologies</h1>
+    <div class="container">
+        <div class="list">
+            <ul>
+                <li>MySQL Workbench</li>
+                <li>Ruby on Rails</li>
+                <li>JavaScript</li>
+                <li>PHP</li>
+                <li>HTML</li>
+                <li>CSS</li>
+            </ul>
+        </div>
+        <div>
+            <img src="img/intro.png" alt="intro" width="400"/>
+        </div>
+    </div>
 
 
 <!-- Descriptions abut me --->
 
-I am currently working on databases and web design. This project includes examples and applications of these technologies.
+<h1>Actualy</h1>
+
+<p>I am currently working on databases and web design. This project includes examples and applications of these technologies.<p>
 
 
 
 
 
 
-
+<br />
 Here are some ideas to get you started:
 
 
