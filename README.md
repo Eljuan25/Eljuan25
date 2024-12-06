@@ -72,7 +72,7 @@
 <h1>Follow me</h1>
 
 <p>
-  <a href="https://www.youtube.com/@DevCode25" target="_blank">
+  <a href="https://www.youtube.com/@Juan25-Git" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" style="width: 40px; height: 40px;">
   </a>
   <a href="https://www.instagram.com/juan_nbx0/" target="_blank">
