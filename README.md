@@ -40,7 +40,7 @@
 
 <h1>Currentyl</h1>
 
-<p>Currently, I am working on database development and management, as well as web design. This project includes a variety of examples and applications that illustrate the use of different technologies. <br />These include MySQL Workbench, Ruby on Rails, JavaScript, PHP, HTML and CSS. Through these examples, I demonstrate my skills in creating, maintaining and optimizing databases, as well as implementing attractive and functional user interfaces. My goal is to combine the efficiency of databases with the intuitive design of web applications to provide complete, high-performance solutions.<p>
+<p>Currently, I am seeking job opportunities to apply and further develop my skills in database development, management, and web design. My experience includes creating and maintaining web applications using technologies such as MySQL Workbench, Ruby on Rails, JavaScript, PHP, HTML, and CSS. I have developed projects that integrate functional and attractive user interfaces with efficient database management, aiming to deliver high-performance, user-friendly solutions. My goal is to contribute to innovative projects and the success of the company I work for..<p>
 
 
 
