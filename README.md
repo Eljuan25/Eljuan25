@@ -29,6 +29,8 @@
                 <li>PHP</li>
                 <li>HTML</li>
                 <li>CSS</li>
+                <li>Phyton</li>
+                <li>React</li>
             </ul>
         </div>
 </div>
@@ -55,7 +57,7 @@
 
   - 👯 I’m looking to collaborate on Michelada.io
 
-  - 🌱  I’m currently learning PHP, Mysql, Ruby,HTML, CSS, JavaScript
+  - 🌱  I’m currently learning Node.js, React, Next.js, Phyton. 
 
   - 💬  Ask me anything **any technology**.
 
